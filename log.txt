@@ -1,0 +1,16 @@
+
+30/11/2022 11:46:39 - https://random-status-code.herokuapp.com- online: false
+30/11/2022 11:46:39 - https://www.instagram.com- online: true
+30/11/2022 11:46:39 - https://www.youtube.com- online: true
+30/11/2022 11:46:40 - https://www.casadocodigo.com.br- online: true
+30/11/2022 11:46:41 - https://www.facebook.com- online: true
+30/11/2022 11:55:08 - https://random-status-code.herokuapp.com- online: false
+30/11/2022 11:55:08 - https://www.instagram.com- online: true
+30/11/2022 11:55:09 - https://www.youtube.com- online: true
+30/11/2022 11:55:09 - https://www.casadocodigo.com.br- online: true
+30/11/2022 11:55:10 - https://www.facebook.com- online: true
+01/12/2022 11:00:33 - https://random-status-code.herokuapp.com- online: false
+01/12/2022 11:00:33 - https://www.instagram.com- online: true
+01/12/2022 11:00:34 - https://www.youtube.com- online: true
+01/12/2022 11:00:34 - https://www.casadocodigo.com.br- online: true
+01/12/2022 11:00:34 - https://www.facebook.com- online: true
